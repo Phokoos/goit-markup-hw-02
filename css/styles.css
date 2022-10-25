@@ -24,6 +24,7 @@ body {
 
 /* Загальні властивості для кнопок та посилань */
 .btn {
+	font-family: inherit;
 	cursor: pointer;
 }
 
@@ -122,6 +123,7 @@ body {
 
 .address-list {
 	list-style: none;
+	font-style: normal;
 }
 
 .address-item-map>a {
